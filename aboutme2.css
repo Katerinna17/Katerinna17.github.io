@@ -44,7 +44,8 @@ html, body {
   background-color:#000000;
 }
 .container > div:nth-child(5){
-  background-color: #ffcc33;}
+  background-color: #ffcc33;
+}
 .button {
   background-color: #4CAF50;
   border: none;
@@ -71,8 +72,19 @@ html, body {
 }
 #Outer {
   font-family: 'Mountains of Christmas', cursive; font-weight: bold;
-  text-align: center;
 }
 .Text {
-  background-color: #ffcc33;
+  background-color: #ffcc33; font-family: 'Mountains of Christmas', cursive; font-weight: bold;
+  text-align: center;
+}
+.Index  {
+  background-color: #ffcc33; font-family: 'Mountains of Christmas', cursive; font-weight: bold;
+  text-align: center;
+}
+.Resume {
+  background-color: #ffcc33; font-family: 'Mountains of Christmas', cursive; font-weight: bold;
+  text-align: center;
+}
+#Outer {
+  text-align: center;
 }
